@@ -4,7 +4,19 @@ Wow, what a mouthful!  You didn't come here to read a history lesson, right?  So
 
 ### (My personal technical history lesson)
 
-That's better.  If you want actual history, you have Wikipedia!  This is much more fun, and it finally gives me a chance to rant about some of the crazier stuff I've done.  Now where to start?  How about the backbone of the web today:
+That's better.  If you want actual history, you have Wikipedia!  This is much more fun, and it finally gives me a chance to rant about some of the crazier stuff I've done.  Why this topic and not the others?  I don't like speaking on things I'm not familiar with, and every other subject you listed has at least one of those listed :)
+
+| Topic | Reason          |
+| ------------- | ----------- |
+| What node.js could learn from Hibernate.                                    | I don't use Hibernate.  I could comment on ORMs in general, but I'm actually quite glad that Node has gone it's own path in this respect instead of copying existing patterns |
+| Syntax-support for tests and invariants: Pythonic?                          | I'm not sure what to write here... Unit tests should be pretty? This is the _only_ place I like CoffeeScript.  Coffee & Mocha, yum! |
+| A tour of DRAKON                                                            | Don't know what DRAKON is |
+| Why you should avoid Neo4J                                                  | Neo4J is some graphing DB, right?  Never used it. |
+| The key 5 web services amazon gets right OR how to put AWS out of business. | I Don't use AWS -- they're too expensive ;) |
+| What smalltalk rightfully should have been.                                 | Haven't used smalltalk enough recently to really speak on it |
+| Why I'll never use clojure on my production server.                         | Never used clojure, or anything Java related.  No desire to.  Ever. |
+
+Now where to start?  How about the backbone of the web today:
 
 #### XHRs
 
