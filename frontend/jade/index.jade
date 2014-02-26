@@ -1,0 +1,16 @@
+mixin css( path )
+	link( rel='stylesheet', type='text/css', href=path )
+
+mixin js( path )
+	script( type='text/javascript', src=path )
+
+doctype html
+head
+	+css( '/css/chat.css' )
+body
+	.chat
+		.log
+		input
+	+js( '/js/jquery-2.1.0.js'     )
+	+js( '/socket.io/socket.io.js' )
+	+js( '/js/chat.js'             )

@@ -1,0 +1,21 @@
+{
+	  "name"         : "weeby-chat-server"
+	, "version"      : "0.0.1"
+	, "description"  : "Simple chat server for weeby"
+	, "author"       : "Mark Kahn <m@zyklus.me>"
+	, "scripts"      : { "start": "node --harmony ." }
+
+	, "dependencies" : {
+		"require-all" : "0.0.x"
+		,    "colors" : "0.6.x"
+		,        "co" : "3.0.x"
+		,       "koa" : "0.5.x"
+		, "socket.io" : "0.9.x"
+		,      "jade" : "1.1.x"
+		,    "stylus" : "0.42.x"
+		,       "nib" : "1.0.x"
+		,  "thunkify" : "0.0.x"
+		,  "finished" : "1.1.x"
+		,  "bluebird" : "1.0.x"
+	}
+}
