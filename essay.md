@@ -49,7 +49,7 @@ XHR.onreadystatechange = function( resp ){
 
 Yay, no more worrying about the internals!  And I <3 Promises.  For the sake of brevity, let's move on to a new topic.
 
-##### HTML, and other stuff
+#### HTML, and other stuff
 
 Okay, just a brief run-down of the various ways to generate HTML:
 

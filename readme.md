@@ -33,3 +33,6 @@ The basic server can be written quickly, and simply, but what fun is that?  I wa
 - Add unit tests and actually test the app a bit :)
 - Stored usernames with ssh/ssl, or bcrypt, or all the fancy security stuffs!
 - Add a mind-control interface so you can just think at the app (actually this already works, but you probably need a firmware upgrade to receive responses)
+
+### Essay
+Your requested [essay](https://github.com/zyklus/weeby_sim/blob/master/essay.md)
